@@ -23,6 +23,13 @@ namespace Inheritance
 
         }
 
+        public void sub()
+        {
+            //test
+        }
+
+
+
         static void Main(string[] args)
         {
             BankChild child = new BankChild();
