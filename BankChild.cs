@@ -28,7 +28,10 @@ namespace Inheritance
             //test
         }
 
+        public void mult()
+        {
 
+        }
 
         static void Main(string[] args)
         {
