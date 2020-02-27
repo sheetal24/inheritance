@@ -23,6 +23,11 @@ namespace Inheritance
 
         }
 
+        public void mult()
+        {
+
+        }
+
         static void Main(string[] args)
         {
             BankChild child = new BankChild();
