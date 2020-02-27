@@ -18,6 +18,11 @@ namespace Inheritance
 
         }
 
+        public void add()
+        {
+
+        }
+
         static void Main(string[] args)
         {
             BankChild child = new BankChild();
