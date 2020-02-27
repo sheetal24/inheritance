@@ -23,10 +23,12 @@ namespace Inheritance
 
         }
 
-        public void mult()
+        public void sub()
         {
-
+            //test
         }
+
+
 
         static void Main(string[] args)
         {
