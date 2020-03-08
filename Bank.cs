@@ -12,6 +12,8 @@ namespace Inheritance
         protected int Withdraw;
         protected int Dep;
 
+        
+       
         public int WithdrawBal(int AccountBalance, int Withdrawal)
         {
             AccBal = AccountBalance;
@@ -19,6 +21,7 @@ namespace Inheritance
             AccBal = AccountBalance - Withdraw;
             Console.WriteLine("Account balance after withdrawal is " + AccBal);
             return AccBal;
+            //rrr
 
         }
 
