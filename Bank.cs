@@ -11,7 +11,7 @@ namespace Inheritance
         protected int AccBal;
         protected int Withdraw;
         protected int Dep;
-
+        //ttt
         public int WithdrawBal(int AccountBalance, int Withdrawal)
         {
             AccBal = AccountBalance;
